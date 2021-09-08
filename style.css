@@ -1,0 +1,86 @@
+body{
+  font-family: 'Raleway','Open Sans', sans-serif;
+  background: #fbf7f5;
+}
+
+h1{
+  text-align: center;
+  font-weight: bold;
+} 
+
+.titles{
+  font-size: 20px;
+  margin-left: 30px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.page-titles{
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.motivation-text{
+  font-size: 20px;
+  text-align: center;
+}
+
+.start-button{
+  width: 250px;
+  height: 180px;
+  margin-left: 100px;
+
+}
+/* Дизайн страниц*/
+.page1{
+  background:#F5F5F5;
+}
+
+.title{
+  font-size: 40px;
+}
+.line-decoration{
+  height: 2px;
+  background: black;
+  opacity:0.2;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.table{
+  padding-top: 10px;
+  padding-left: 30px;
+  width: 1000px;
+  margin: auto;
+  font-family: 'Raleway','Open Sans', sans-serif;
+}
+
+.left_col{
+  width: 50%;
+}
+
+
+.image{
+  width: 550px;
+  height: 350px;
+  border-radius: 10px;
+}
+
+.col_text {
+  padding: 20px;
+}
+
+.page{
+  display: inline;
+  padding-left: 30px;
+  font-size: 18px;
+  font-weight: bold;
+  color:#000080;
+}
+
+.next-page{
+  padding-left: 180px;
+}
